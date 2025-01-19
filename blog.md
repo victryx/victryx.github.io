@@ -1,7 +1,7 @@
 ---
-title: /blog
-layout: home
+title: ~/blog/
+layout: blog
 permalink: /blog/
 ---
 
-# My thoughts and ramblings
+# Blog

@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  victryx
 
 # Build settings
-theme: jekyll-theme-console
+# theme: jekyll-theme-console
 plugins:
   - jekyll-feed
 markdown: kramdown
@@ -28,7 +28,7 @@ header_pages:
   - blog.md
 
 style: dark
-footer: '<a href="https://github.com/victryx/victryx.github.io">source code</a> ♥'
+footer: 'Made with ♡ | <a href="https://github.com/victryx/victryx.github.io">source code</a> | <a href="https://victryx.github.io/feed">RSS</a>'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
