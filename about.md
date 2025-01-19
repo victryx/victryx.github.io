@@ -4,6 +4,8 @@ layout: page
 permalink: /about
 ---
 
+# •☾ About ☽•
+
 ## About me
 
 I started programming in 2020 during the global pandemic because I wanted to make games. I studied an app development higher education course for two years and then got into university. I did an internship at a web development company in 2024, working on an internal time tracking project developed with React and Next.js.
@@ -34,7 +36,7 @@ Some of my favorite games are **Age of Empires II**, **Vanquish**, and **Fallout
 
 This website is built with Jekyll and hosted on GitHub pages. I'm using a modified version of [this](https://github.com/b2a3e8/jekyll-theme-console) theme.
 
-### More projects
+## More projects
 
 - \[[Java TCP Chat](https://github.com/victryx/TINAC-Chat)\] Client-server chat system made with Java
 - \[[Java FTP Folder sync](https://github.com/victryx/SuperSync)\] Folder synchronization system made with Java

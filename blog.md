@@ -4,4 +4,4 @@ layout: blog
 permalink: /blog/
 ---
 
-# Blog
+# •☾ Blog ☽•
