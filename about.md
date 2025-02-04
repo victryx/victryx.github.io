@@ -22,15 +22,16 @@ I enjoy playing around with game development tools and ocassionally I make games
 - I'm trying to switch to **Neovim** from vscode, but that's going to take a while
 - Not related, but I'm also learning to draw
 
-### Likes
+### Skills
 
-Some of my favorite games are **Age of Empires II**, **Vanquish**, and **Fallout New Vegas**
+- **SRUM**, agile methodologies
+- **Java**, Hibernate, Spring Boot
+- Android/iOS apps with **Flutter** 
+- **HTML** and **CSS**
+- Problem Solving
+- Time management
 
-### Now
-
-- **Reading** _Brave New World_ by Aldous Huxley
-- **Playing** Fez
-<!-- TODO: lastfm script-->
+I've also built basic projects using **Wordpress** and **PHP** and I have worked with **Symfony**, **React** and **Next.js**.
 
 ## About the website
 
