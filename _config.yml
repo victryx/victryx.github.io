@@ -26,7 +26,7 @@ header_pages:
   - blog.md
 
 style: dark
-footer: 'Made with ♡ | <a href="https://github.com/victryx/victryx.github.io">source code ♡</a> | <a href="https://victryx.github.io/feed">RSS</a>'
+footer: 'Made with ♡ | <a href="https://github.com/victryx/victryx.github.io">source code</a> | <a href="https://victryx.github.io/feed">RSS</a>'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
