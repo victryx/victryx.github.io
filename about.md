@@ -44,5 +44,5 @@ This website is built with Jekyll and hosted on GitHub pages. I'm using a modifi
 
 ## Contact
 
-- Socials: [Mastodon](https://tech.lgbt/@victrix) [GitHub](https://github.com/victryx) [LinkedIn](https://www.linkedin.com/in/victoria-quijada-08b5622ab/)
+- Socials: [Mastodon](https://tech.lgbt/@victrix) [GitHub](https://github.com/victryx) [LinkedIn](https://www.linkedin.com/in/victoria-quijada/)
 - email me at victoriamartina \[at\] protonmail \[dot\] com
